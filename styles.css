@@ -73,7 +73,7 @@ body.no-scroll { overflow: hidden; }
 }
 .eyebrow {
   margin: 8px 0 4px;
-  color: #a65a83;
+  color: #8a3f68;
   font-size: .68rem;
   font-weight: 800;
   letter-spacing: .22em;
@@ -270,7 +270,7 @@ button.link-button {
 .booking__head { position: relative; padding-right: 46px; text-align: left; }
 .booking__eyebrow {
   margin: 0 0 4px;
-  color: #a65a83;
+  color: #8a3f68;
   font-size: .6rem;
   font-weight: 800;
   letter-spacing: .2em;
@@ -313,7 +313,7 @@ button.link-button {
   letter-spacing: .09em;
   text-transform: uppercase;
 }
-.field label span { color: #a8879a; font-weight: 600; letter-spacing: 0; text-transform: none; }
+.field label span { color: #8d5f79; font-weight: 600; letter-spacing: 0; text-transform: none; }
 .field input,
 .field textarea {
   width: 100%;
@@ -359,8 +359,8 @@ button.link-button {
   text-decoration: none;
   text-align: left;
   border-radius: 18px;
-  background: linear-gradient(120deg, #21c25f, #0b8f45);
-  box-shadow: 0 10px 22px rgba(11, 143, 69, .3);
+  background: linear-gradient(120deg, #0f7d3f, #07602e);
+  box-shadow: 0 10px 22px rgba(7, 96, 46, .34);
   transition: transform .18s ease, filter .18s ease;
 }
 .btn-send:hover { transform: translateY(-2px); filter: brightness(1.05); }
@@ -399,7 +399,7 @@ button.link-button {
   background: #fff5fb;
 }
 .booking__preview:empty { display: none; }
-.booking__fine { margin: 0; color: #92748a; font-size: .71rem; line-height: 1.45; text-align: center; }
+.booking__fine { margin: 0; color: #7c5f70; font-size: .71rem; line-height: 1.45; text-align: center; }
 
 .toast {
   position: fixed;
